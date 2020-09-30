@@ -12,11 +12,12 @@ It's professional designer website.
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://wireframe.cc/pro/pp/08bf166ab378354)
 
 ## 0. Set-Up
 
 __A User can see my initial repository and live demo__
+* live demo : 
 
 ### Repo
 
@@ -27,10 +28,14 @@ __A User can see my initial repository and live demo__
 ## 1. __
 
 __full user story description__
-
+The system will be stable.
 ### Repo
 
 what branch(es) did you work on?
+* Working on branches/ don't make any changes to the master
+* Working on branch _my-dev-strategy_ for my development strategy
+* Working on branch _html_ for my html file
+* Working on branch _style_ for my css file
 
 ### HTML
 
