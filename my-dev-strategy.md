@@ -17,7 +17,7 @@ It's professional designer website.
 ## 0. Set-Up
 
 __A User can see my initial repository and live demo__
-* live demo : 
+* live demo : https://anisyapurnama.github.io/acme-web-design/index.html
 
 ### Repo
 
