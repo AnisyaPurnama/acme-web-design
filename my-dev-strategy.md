@@ -11,7 +11,7 @@ It's professional designer website.
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
 
-![wireframe](https://wireframe.cc/pro/pp/08bf166ab378354)
+![wireframe](https://wireframe.cc/pro/pp/5c55913a9379298)
 
 ## 0. Set-Up
 
