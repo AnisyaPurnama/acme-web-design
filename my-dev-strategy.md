@@ -17,7 +17,7 @@ It's professional designer website.
 ## 0. Set-Up
 
 __A User can see my initial repository and live demo__
-* live demo : https://anisyapurnama.github.io/acme-web-design/index.html
+* live demo : 
 
 ### Repo
 
@@ -43,7 +43,8 @@ Did't make any change from html file.
 
 ### CSS
 
-*change the container color from orange into pink
+Did't make any change from html file.
+
 ## 2. ...
 
 ...
