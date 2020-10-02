@@ -25,7 +25,7 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Description
 
 __full user story description__
 The system will be stable.
@@ -39,11 +39,11 @@ what branch(es) did you work on?
 
 ### HTML
 
-what did you change in the HTML and why?
+Did't make any change from html file.
 
 ### CSS
 
-what did you change in the CSS and why?
+Did't make any change from html file.
 
 ## 2. ...
 
