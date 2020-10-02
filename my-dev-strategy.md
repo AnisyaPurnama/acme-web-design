@@ -2,21 +2,21 @@
 
 > `ACME-WEB-DESIGN`
 
-write a short description of your project:
-- who would want to use it?
-The fiction website for web designer.
-- why would they want to use it?
+
+The (fiction) website for web designer.
 It's professional designer website.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+
+![wireframe](https://wireframe.cc/pro/pp/08bf166ab378354)
 
 ## 0. Set-Up
 
 __A User can see my initial repository and live demo__
+* live demo : https://anisyapurnama.github.io/acme-web-design/index.html
 
 ### Repo
 
@@ -24,27 +24,29 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Description
 
 __full user story description__
+The system will be stable and it is free website.
 
 ### Repo
 
-what branch(es) did you work on?
+* Working on branch _my-dev-strategy_ for changes of my development strategy
+* Working on branch _html_ for changes of my html file
+* Working on branch _style_ for changes of my css file
+* pull request to master
+* merging
+* push to master
+
 
 ### HTML
 
-what did you change in the HTML and why?
+* Change the lorem ipsum text
 
 ### CSS
 
-what did you change in the CSS and why?
+* Change the container color
 
-## 2. ...
-
-...
-
-...
 
 ## Finishing Touches
 
