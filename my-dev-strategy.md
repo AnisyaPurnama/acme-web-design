@@ -43,7 +43,8 @@ Did't make any change from html file.
 
 ### CSS
 
-*change the container color from orange into pink
+Did't make any change from html file.
+
 ## 2. ...
 
 ...
